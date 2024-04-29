@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Chat_APP_With_Firebase</string>
+    <string name="chat_app">Chat APP</string>
+    <string name="developed_by_amruta">Developed by Amruta</string>
+    <string name="enter_mobile_number">Enter Mobile Number</string>
+    <string name="send_otp">Send OTP</string>
+    <string name="enter_otp_sent_to_your_phone_number">Enter Otp sent to your phone number</string>
+    <string name="otp">OTP</string>
+    <string name="next">Next</string>
+    <string name="resend_otp_in_30_sec">Resend OTP in 30 sec</string>
+    <string name="enter_your_username">Enter your Username</string>
+    <string name="username">Username</string>
+    <string name="let_me_in">Let me in</string>
+</resources>
